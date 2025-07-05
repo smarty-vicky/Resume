@@ -28,6 +28,9 @@ With hands-on experience in Python, HTML, Java, and beginner knowledge in cybers
 
 ## 📁 Projects
 
+### ✅ [Cybersecurity Toolkit](https://github.com/smarty-vicky/Python-Project)
+A curated starter toolkit to support foundational cybersecurity learning and hands-on exploration.
+
 ### ✅ [Resume Matcher using Python](https://github.com/smarty-vicky/Python-Project)
 A smart tool that analyzes your resume and matches it with a given job description using NLP and keyword similarity.
 
