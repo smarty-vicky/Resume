@@ -1,59 +1,75 @@
-# Certificates
-This is A Repo for my certifications collection
+# 👋 Hi, I'm Vignesh Senthilkumar
 
+🎓 Recent BCA Graduate (2025) from Sri Krishna Adithya College of Arts and Science  
+💼 Aspiring Software Developer | Entry-Level Cybersecurity Enthusiast  
+📍 Based in Tamil Nadu, India  
+📧 vigneshsenthilkumar30@gmail.com  
+📱 +91 88254 90937  
+🔗 [LinkedIn](https://linkedin.com/in/vigneshsenthilkumar30) • [GitHub](https://github.com/smarty-vicky)
 
-🎓 Udemy Certifications:
-Basics of Cloud Computing | Fundamentals of Cloud Computing
+---
 
-Adobe Photoshop Complete Mastery Course Beginner to Advanced
+## 🚀 About Me
 
-Python And Django Framework And HTML 5 Stack Complete Course
+I'm a passionate tech graduate excited to begin my professional journey in the IT industry. I'm actively exploring opportunities where I can contribute to meaningful projects, learn new technologies, and grow as a developer.
 
-SQL for Data Analysis: Solving Real-World Problems with Data
+With hands-on experience in Python, HTML, Java, and beginner knowledge in cybersecurity tools like Wireshark and Burp Suite, I am eager to work in development or security roles. I’m also proud to have completed multiple online certifications to build a strong foundational skillset.
 
-Java Tutorial for Complete Beginners
+---
 
-Ethical Hacking: Post-Exploitation
+## 💻 Tech Skills
 
-🎓 GeeksforGeeks Certification:
-Python Full Course Online – Complete Beginner to Advanced
+- **Languages**: Python, Java, HTML, SQL  
+- **Cybersecurity Tools**: Burp Suite, Wireshark (Basics)  
+- **Tools & Platforms**: Git, Docker (Beginner), Canva, Google Workspace, MS Excel & Word  
+- **Soft Skills**: Communication, Critical Thinking, Problem Solving, Active Listening
 
-🎓 Coursera Certifications:
-Introduction to Generative AI
+---
 
-Docker for Absolute Beginners
+## 📁 Projects
 
-AI-Powered Chest Disease Detection and Classification
+### ✅ [Resume Matcher using Python](https://github.com/smarty-vicky/Resume-Matcher)
+A smart tool that analyzes your resume and matches it with a given job description using NLP and keyword similarity.
 
-Create a Storyboard using Canva
+### ✅ [Smart Ambulance System](https://github.com/smarty-vicky/Smart-Ambulance-System)
+A web application built using PHP and MySQL to locate nearby hospitals and track emergency patients, developed as my final-year academic project.
 
-Planning for a Google Workspace Deployment
+---
 
-Javascript Animation for Websites, Storytelling, Data Visualization and Games
+## 🏅 Certifications
 
-Python for Beginners: Variables and Strings
+✅ **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**  
+✅ Completed 25+ industry-relevant certifications from:
+- **Coursera** (Google Cloud, AI, Docker, Cybersecurity, etc.)
+- **Udemy** (Cloud, SQL, Ethical Hacking, Python & Django)
+- **GeeksforGeeks** (Python Full Course)
 
-Semantic Segmentation with Amazon SageMaker
+📜 [View Full Certification List →](https://github.com/smarty-vicky/Certifications)
 
-Introduction to International Criminal Law
+---
 
-Wireshark for Beginners: Capture Packets
+## 📌 Education
 
-Introduction to Artificial Intelligence (AI)
+**Bachelor of Computer Applications (BCA)**  
+Sri Krishna Adithya College of Arts and Science  
+2022 – 2025 | **64.95%**
 
-Getting Started with AI using IBM Watson
+**12th Grade – Tamil Nadu State Board**  
+Sri Ranganathar MHSS | **70.83%**
 
-AWS Cloud Technical Essentials
+**10th Grade – Tamil Nadu State Board**  
+Sri Ranganathar MHSS | **61.80%**
 
-Transformer Models and BERT Model
+---
 
-Introduction to Large Language Models
+## 🤝 Let's Connect
 
-Encoder-Decoder Architecture (Google Cloud)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vigneshsenthilkumar30) or drop a mail at **vigneshsenthilkumar30@gmail.com**.  
+I'm excited to collaborate, learn, and grow 🚀
 
-Technical Support Fundamentals (Google)
+---
+## 🗣️ Languages Known
 
-HTML for Beginners: Working with Images
-
-🏅 Oracle Certification:
-Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- **Tamil** – Read, Speak, Write (Native)  
+- **English** – Read, Speak, Write  
+- **Malayalam** – Speak
