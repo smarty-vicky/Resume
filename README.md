@@ -28,10 +28,10 @@ With hands-on experience in Python, HTML, Java, and beginner knowledge in cybers
 
 ## 📁 Projects
 
-### ✅ [Resume Matcher using Python](https://github.com/smarty-vicky/Resume-Matcher)
+### ✅ [Resume Matcher using Python](https://github.com/smarty-vicky/Python-Project)
 A smart tool that analyzes your resume and matches it with a given job description using NLP and keyword similarity.
 
-### ✅ [Smart Ambulance System](https://github.com/smarty-vicky/Smart-Ambulance-System)
+### ✅ [Smart Ambulance System](https://github.com/smarty-vicky/academicproject)
 A web application built using PHP and MySQL to locate nearby hospitals and track emergency patients, developed as my final-year academic project.
 
 ---
