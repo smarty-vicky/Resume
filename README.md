@@ -44,7 +44,7 @@ A web application built using PHP and MySQL to locate nearby hospitals and track
 - **Udemy** (Cloud, SQL, Ethical Hacking, Python & Django)
 - **GeeksforGeeks** (Python Full Course)
 
-📜 [View Full Certification List →](https://github.com/smarty-vicky/Certifications)
+📜 [View Full Certification List →]([https://github.com/smarty-vicky/Certifications](https://github.com/smarty-vicky/Resume/blob/main/certificates.txt))
 
 ---
 
