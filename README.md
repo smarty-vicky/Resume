@@ -1,2 +1,2 @@
-# certificates
-My Certificatations
+# Certificates
+This is A Repo for my certifications collection
